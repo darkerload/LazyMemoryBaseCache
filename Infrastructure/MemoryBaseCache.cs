@@ -45,7 +45,7 @@ namespace LazyMemoryBaseCache.Infrastructure
             }
             catch (Exception)
             {
-                throw new Exception("Key is null");
+                return null;
             }
         }
 
