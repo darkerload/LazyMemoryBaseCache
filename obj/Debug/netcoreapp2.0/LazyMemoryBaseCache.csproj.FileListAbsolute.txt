@@ -1,0 +1,11 @@
+c:\users\abdullah.karatekin\Source\Repos\LazyMemoryBaseCache\LazyMemoryBaseCache\obj\Debug\netcoreapp2.0\LazyMemoryBaseCache.csprojResolveAssemblyReference.cache
+c:\users\abdullah.karatekin\Source\Repos\LazyMemoryBaseCache\LazyMemoryBaseCache\obj\Debug\netcoreapp2.0\LazyMemoryBaseCache.csproj.CoreCompileInputs.cache
+c:\users\abdullah.karatekin\Source\Repos\LazyMemoryBaseCache\LazyMemoryBaseCache\obj\Debug\netcoreapp2.0\LazyMemoryBaseCache.AssemblyInfoInputs.cache
+c:\users\abdullah.karatekin\Source\Repos\LazyMemoryBaseCache\LazyMemoryBaseCache\obj\Debug\netcoreapp2.0\LazyMemoryBaseCache.AssemblyInfo.cs
+c:\users\abdullah.karatekin\Source\Repos\LazyMemoryBaseCache\LazyMemoryBaseCache\bin\Debug\netcoreapp2.0\LazyMemoryBaseCache.deps.json
+c:\users\abdullah.karatekin\Source\Repos\LazyMemoryBaseCache\LazyMemoryBaseCache\bin\Debug\netcoreapp2.0\LazyMemoryBaseCache.runtimeconfig.json
+c:\users\abdullah.karatekin\Source\Repos\LazyMemoryBaseCache\LazyMemoryBaseCache\bin\Debug\netcoreapp2.0\LazyMemoryBaseCache.runtimeconfig.dev.json
+c:\users\abdullah.karatekin\Source\Repos\LazyMemoryBaseCache\LazyMemoryBaseCache\bin\Debug\netcoreapp2.0\LazyMemoryBaseCache.dll
+c:\users\abdullah.karatekin\Source\Repos\LazyMemoryBaseCache\LazyMemoryBaseCache\bin\Debug\netcoreapp2.0\LazyMemoryBaseCache.pdb
+c:\users\abdullah.karatekin\Source\Repos\LazyMemoryBaseCache\LazyMemoryBaseCache\obj\Debug\netcoreapp2.0\LazyMemoryBaseCache.dll
+c:\users\abdullah.karatekin\Source\Repos\LazyMemoryBaseCache\LazyMemoryBaseCache\obj\Debug\netcoreapp2.0\LazyMemoryBaseCache.pdb
